@@ -3,15 +3,17 @@ This challenge is designed to challenge your understanding of front-end web deve
 
 Since this challenge will be progressively increasing in difficulty and complexity over time, these docs and the files in this repo will be updated over time as well :) .
 
-#Week 1: Clicker App using HTML, CSS, and Javascript!
-##### 1. Vanilla HTML, CSS, and Javascript
-##### 2. React
-##### 3. Svelte
-##### 4. Vue
-##### 5. Angular
-##### 6. Ember js
-##### 7. Backbone js
-
+-----------------------------
+##Current Challenge
+###Week 1: Clicker App using HTML, CSS, and Javascript!
+1. [ ] Vanilla HTML, CSS, and Javascript
+2. [ ] React
+3. [ ] Svelte
+4. [ ] Vue
+5. [ ] Angular
+6. [ ] Ember js
+7. [ ] Backbone js
+---------------------------
 
 ##### It's important to know that this challenge is to understand how design strucutres can be used accross several different languages and frameworks. But mostly, I'm here to just have fun!
 
@@ -33,3 +35,32 @@ A:
 ##Q: Why are you doing this challenge?
 ######A: The main reason, is to challenge my skills and knowledge of programming. I may not know many languages, but, the basic skills acquired from learning a programming language applies to many other languages. I also, just want to have fun, as that's how I feel every programmer should feel towards programming.
 
+##TODO:
+1. [ ] Create a CLI using Deno or Nodejs to auto create the necessary folders for future projects
+2. [ ] 
+
+---
+---
+#Challenge Roadmap
+
+
+##Clicker App:
+---
+###Week 1: Clicker App using HTML, CSS, and Javascript!
+1. [ ] Vanilla HTML, CSS, and Javascript
+2. [ ] React
+3. [ ] Svelte
+4. [ ] Vue
+5. [ ] Angular
+6. [ ] Ember js
+7. [ ] Backbone js
+---
+###Week 2: Clicker App using Python
+1. [ ]  Skulpt
+2. [ ]  Brython
+3. [ ]  Anvil
+---
+###Week 3: Clicker App using Dart
+1. [ ] Vanilla Dart
+2. [ ] Flutter
+---
