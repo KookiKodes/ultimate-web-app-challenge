@@ -95,7 +95,7 @@ const incrementor = buttonFactory("increment", "submit", "+");
 const decrementor = buttonFactory("decrement", "submit", "-");
 const resetter = buttonFactory("reset", "submit", "reset");
 
-const clicker = new Clicker({ starting: 100, max: 4, min: 6 });
+const clicker = new Clicker();
 const number = new TextElemObserver("h1");
 const counterContainer = containerFactory("container", number.elem);
 const buttonContainer = containerFactory(
