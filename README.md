@@ -8,8 +8,8 @@ Since this challenge will be progressively increasing in difficulty and complexi
 ###Week 1: Clicker App using HTML, CSS, and Javascript!
 1. [x] Vanilla HTML, CSS, and Javascript
 2. [x] React
-3. [ ] Svelte
-4. [ ] Vue
+3. [x] Svelte
+4. [x] Vue
 5. [ ] Angular
 6. [ ] Ember js
 7. [ ] Backbone js
@@ -49,8 +49,8 @@ A:
 ###Week 1: Clicker App using HTML, CSS, and Javascript!
 1. [x] Vanilla HTML, CSS, and Javascript
 2. [x] React
-3. [ ] Svelte
-4. [ ] Vue
+3. [x] Svelte
+4. [x] Vue
 5. [ ] Angular
 6. [ ] Ember js
 7. [ ] Backbone js
