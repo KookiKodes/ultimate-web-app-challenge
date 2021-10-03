@@ -36,21 +36,21 @@ A:
 ## Q: How often will this challenge be updated? 
 ######A: I will be streaming this challenge on my twitch (https://www.twitch.tv/KookiKodes) every weekend from 8p.m. - 12a.m. PST. The challenge will be updated before the first stream every weekend. I will also be updating this readme file to make note of which week, app, and language we are currently on. If you would like to follow along live, please feel free to follow the link above and join my live stream :) ! I will also be posting videos of this challenge on my youtube channel at https://www.youtube.com/channel/UClCcAxhhko6VMre3hHoysxw!
 
-##Q: Why are you doing this challenge?
-######A: The main reason, is to challenge my skills and knowledge of programming. I may not know many languages, but, the basic skills acquired from learning a programming language applies to many other languages. I also, just want to have fun, as that's how I feel every programmer should feel towards programming.
+## Q: Why are you doing this challenge?
+###### A: The main reason, is to challenge my skills and knowledge of programming. I may not know many languages, but, the basic skills acquired from learning a programming language applies to many other languages. I also, just want to have fun, as that's how I feel every programmer should feel towards programming.
 
-##TODO:
+## TODO:
 1. [ ] Create a CLI using Deno or Nodejs to auto create the necessary folders for future projects
 2. [ ] 
 
 ---
 ---
-#Challenge Roadmap
+# Challenge Roadmap
 
 
 ##Clicker App:
 ---
-###Week 1: Clicker App using HTML, CSS, and Javascript!
+### Week 1: Clicker App using HTML, CSS, and Javascript!
 1. [x] Vanilla HTML, CSS, and Javascript
 2. [x] React
 3. [x] Svelte
@@ -59,12 +59,12 @@ A:
 6. [ ] Ember js
 7. [ ] Backbone js
 ---
-###Week 2: Clicker App using Python
+### Week 2: Clicker App using Python
 1. [ ]  Skulpt
 2. [ ]  Brython
 3. [ ]  Anvil
 ---
-###Week 3: Clicker App using Dart
+### Week 3: Clicker App using Dart
 1. [ ] Vanilla Dart
 2. [ ] Flutter
 ---
