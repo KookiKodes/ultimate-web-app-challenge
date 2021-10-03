@@ -41,7 +41,6 @@ A:
 
 ## TODO:
 1. [ ] Create a CLI using Deno or Nodejs to auto create the necessary folders for future projects
-2. [ ] 
 
 ---
 ---
