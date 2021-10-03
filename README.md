@@ -3,6 +3,10 @@ This challenge is designed to challenge your understanding of front-end web deve
 
 Since this challenge will be progressively increasing in difficulty and complexity over time, these docs and the files in this repo will be updated over time as well :) .
 
+---
+##Update:
+I've been faily busy with life and some job requests, that I haven't had the time to focus on this project. I will be coming back to this project in the future :) !
+
 -----------------------------
 ##Current Challenge
 ###Week 1: Clicker App using HTML, CSS, and Javascript!
