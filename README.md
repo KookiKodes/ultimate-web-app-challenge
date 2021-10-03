@@ -8,8 +8,8 @@ Since this challenge will be progressively increasing in difficulty and complexi
 I've been faily busy with life and some job requests, that I haven't had the time to focus on this project. I will be coming back to this project in the future :) !
 
 -----------------------------
-##Current Challenge
-###Week 1: Clicker App using HTML, CSS, and Javascript!
+## Current Challenge
+### Week 1: Clicker App using HTML, CSS, and Javascript!
 1. [x] Vanilla HTML, CSS, and Javascript
 2. [x] React
 3. [x] Svelte
@@ -34,7 +34,7 @@ A:
 ###### Essentially a new language will be introduced each week, once I've gone through several different languages, I will increase the difficulty of the app.
 
 ## Q: How often will this challenge be updated? 
-######A: I will be streaming this challenge on my twitch (https://www.twitch.tv/KookiKodes) every weekend from 8p.m. - 12a.m. PST. The challenge will be updated before the first stream every weekend. I will also be updating this readme file to make note of which week, app, and language we are currently on. If you would like to follow along live, please feel free to follow the link above and join my live stream :) ! I will also be posting videos of this challenge on my youtube channel at https://www.youtube.com/channel/UClCcAxhhko6VMre3hHoysxw!
+###### A: I will be streaming this challenge on my twitch (https://www.twitch.tv/KookiKodes) every weekend from 8p.m. - 12a.m. PST. The challenge will be updated before the first stream every weekend. I will also be updating this readme file to make note of which week, app, and language we are currently on. If you would like to follow along live, please feel free to follow the link above and join my live stream :) ! I will also be posting videos of this challenge on my youtube channel at https://www.youtube.com/channel/UClCcAxhhko6VMre3hHoysxw!
 
 ## Q: Why are you doing this challenge?
 ###### A: The main reason, is to challenge my skills and knowledge of programming. I may not know many languages, but, the basic skills acquired from learning a programming language applies to many other languages. I also, just want to have fun, as that's how I feel every programmer should feel towards programming.
